@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781250504 source:c:\users\user\documents\codeblock\programa cloteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
