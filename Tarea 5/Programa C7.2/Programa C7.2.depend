@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781882189 source:c:\users\user\documents\codeblock\programa c7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
