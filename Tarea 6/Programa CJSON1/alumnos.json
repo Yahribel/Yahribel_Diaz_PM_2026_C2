@@ -1,0 +1,64 @@
+{}
+ "Alumno":[
+    {
+    "Nombre": "Yahribel",
+    "Apellido": "Diaz",
+    "Promedio": 10.0,
+    "Materia": "Matematicas"
+    },
+    {
+    "Nombre": "Arianny",
+    "Apellido": "Montero",
+    "Promedio": 9.2,
+    "Materia": "Fisica"
+    },
+    {
+    "Nombre": "Yelianny",
+    "Apellido": "Hernandez",
+    "Promedio": 9.6,
+    "Materia": "Quimica"
+    },
+    {
+    "Nombre": "Neurianny",
+    "Apellido": "Morillo",
+    "Promedio": 8.5,
+    "Materia": "Historia"
+    },
+    {
+    "Nombre": "Santa",
+    "Apellido": "Fabian",
+    "Promedio": 7.5,
+    "Materia": "Biologia"
+    },
+    {
+    "Nombre": "Luis",
+    "Apellido": "Encarnacion",
+    "Promedio": 7.2,
+    "Materia": "Literatura"
+    },
+    {
+    "Nombre": "Aneudy",
+    "Apellido": "Lopez",
+    "Promedio": 8.1,
+    "Materia": "Geografia"
+    },
+    {
+    "Nombre": "Yaimely",
+    "Apellido": "Reinoso",
+    "Promedio": 9.4,
+    "Materia": "Ingles"
+    },
+    {
+    "Nombre": "Rina",
+    "Apellido": "Alvarez",
+    "Promedio": 6.4,
+    "Materia": "Programacion"
+    },
+    {
+    "Nombre": "Vanesa",
+    "Apellido": "Rosario",
+    "Promedio": 9.0,
+    "Materia": "Base de datos"
+    }
+   ]
+}
