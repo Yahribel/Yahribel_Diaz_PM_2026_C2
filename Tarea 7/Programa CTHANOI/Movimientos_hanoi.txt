@@ -1,0 +1,19 @@
+REGISTRO DE MOVIMIENTOS - TORRES DE HANOI (4 discos)
+Movimiento 1: mover disco 1 desde la torre A hasta la torre B
+Movimiento 2: Mover disco 2 desde la torre A hasta la torre C
+Movimiento 3: mover disco 1 desde la torre B hasta la torre C
+Movimiento 4: Mover disco 3 desde la torre A hasta la torre B
+Movimiento 5: mover disco 1 desde la torre C hasta la torre A
+Movimiento 6: Mover disco 2 desde la torre C hasta la torre B
+Movimiento 7: mover disco 1 desde la torre A hasta la torre B
+Movimiento 8: Mover disco 4 desde la torre A hasta la torre C
+Movimiento 9: mover disco 1 desde la torre B hasta la torre C
+Movimiento 10: Mover disco 2 desde la torre B hasta la torre A
+Movimiento 11: mover disco 1 desde la torre C hasta la torre A
+Movimiento 12: Mover disco 3 desde la torre B hasta la torre C
+Movimiento 13: mover disco 1 desde la torre A hasta la torre B
+Movimiento 14: Mover disco 2 desde la torre A hasta la torre C
+Movimiento 15: mover disco 1 desde la torre B hasta la torre C
+Conclusion
+Total de movimientos calculados teoricamente: 15
+Total de movimientos registrados en el archivo: 15
