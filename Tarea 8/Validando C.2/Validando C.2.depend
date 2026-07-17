@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1784273719 source:c:\users\user\documents\codeblock\validando c.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+
