@@ -1,0 +1,21 @@
+{
+  "riesgos": [
+    {
+      "id": 1,
+      "nombre": "iNCENDIO",
+      "descripcion": "INcendio que puede afectar instalaciones y equipos",
+      "funcion": 4,
+      "sustitucion": 3,
+      "profundidad": 4,
+      "extension": 3,
+      "agresion": 2,
+      "vulnerabilidad": 4,
+      "importancia_impacto": 12,
+      "dimension_dano": 12,
+      "caracter_riesgo": 24,
+      "probabilidad_riesgo": 8,
+      "riesgo_estimado": 192,
+      "clasificacion": "Muy bajo"
+    }
+  ]
+}

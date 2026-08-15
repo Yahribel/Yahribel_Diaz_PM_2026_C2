@@ -1,0 +1,38 @@
+{
+  "riesgos": [
+    {
+      "id": 1,
+      "nombre": "Ciberataque",
+      "descripcion": "secuestro de informacion y servidores criticos",
+      "funcion": 5,
+      "sustitucion": 4,
+      "profundidad": 5,
+      "extension": 4,
+      "agresion": 4,
+      "vulnerabilidad": 4,
+      "importancia_impacto": 20,
+      "dimension_dano": 20,
+      "caracter_riesgo": 40,
+      "probabilidad_riesgo": 16,
+      "riesgo_estimado": 640,
+      "clasificacion": "Normal"
+    },
+    {
+      "id": 2,
+      "nombre": "Apagon",
+      "descripcion": "Corte electrico sin respaldo de planta de emergencia ",
+      "funcion": 4,
+      "sustitucion": 3,
+      "profundidad": 3,
+      "extension": 3,
+      "agresion": 3,
+      "vulnerabilidad": 3,
+      "importancia_impacto": 12,
+      "dimension_dano": 9,
+      "caracter_riesgo": 21,
+      "probabilidad_riesgo": 9,
+      "riesgo_estimado": 189,
+      "clasificacion": "Muy bajo"
+    }
+  ]
+}
